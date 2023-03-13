@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddNew> should render component 1`] = `
+<section
+  id="section-todo"
+>
+  <h3
+    className="center-align white-text blue"
+  >
+    Add New Todo
+  </h3>
+  <div
+    className="row"
+  >
+    <p
+      className="red-text err-msg col s12 center-align"
+    />
+    <div
+      className="input-field col s10"
+    >
+      <input
+        id="todo-input"
+        onChange={[Function]}
+        placeholder="Type todo here"
+        type="text"
+        value=""
+      />
+      <label
+        className="active"
+        htmlFor="todo-input"
+      >
+        New Todo
+      </label>
+    </div>
+    <button
+      className="btn col s2 blue"
+      onClick={[Function]}
+    >
+      Add
+    </button>
+  </div>
+</section>
+`;
