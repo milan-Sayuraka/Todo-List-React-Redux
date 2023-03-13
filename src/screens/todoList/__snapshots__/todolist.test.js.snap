@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodoList> should render component 1`] = `
+<section
+  id="section-todo"
+>
+  <h3
+    className="center-align white-text blue"
+  >
+    Todo List
+  </h3>
+  <p
+    className="center-align"
+  >
+    You don't have anything to do!
+  </p>
+</section>
+`;
